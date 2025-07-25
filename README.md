@@ -62,32 +62,6 @@ A MERN application for basic tasks management.
 - Redux
 - Mongodb
 
-## Dependencies
-
-Following are the major dependencies of the project:
-
-- axios
-- react
-- react-dom
-- react-redux
-- react-router-dom
-- react-toastify
-- redux
-- redux-thunk
-- bcrypt
-- cors
-- dotenv
-- express
-- jsonwebtoken
-- mongoose
-
-## Dev-dependencies
-
-Following are the major dev-dependencies of the project:
-
-- nodemon
-- concurrently
-
 ## Prerequisites
 
 - Node.js must be installed on the system.
