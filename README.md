@@ -23,6 +23,9 @@ A MERN application for basic tasks management.
 - View tasks
 - Update tasks
 - Delete tasks
+- Status (e.g.- "pending", "completed")
+- Priority Management
+- Visual Representation
 
 ### Developer-side features
 
